@@ -4,10 +4,8 @@ My name is Ceili DeMarais, and I am a PhD student at Montana State University wo
 I work at the intersection of remote sensing and ecology, using foliar reflectance as an integrated measure of physiological and ecological patterns. 
 
 ---
-
-## Connect with me here: 
-- [LinkedIn](https://www.linkedin.com/in/ceili-demarais/)
-- [Website](https://ceilidemo.github.io/)
+- Check out my [LinkedIn](https://www.linkedin.com/in/ceili-demarais/)
+- or my personal [website](https://ceilidemo.github.io/)
 
 ---
 
