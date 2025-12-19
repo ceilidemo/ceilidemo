@@ -7,6 +7,7 @@ I work at the intersection of remote sensing and ecology, examining the use of f
 - [LinkedIn](https://www.linkedin.com/in/ceili-demarais/)
 - [Personal website](https://ceilidemo.github.io/) (still in progress...)
 - [Lab Github](https://github.com/Schweiger-Lab)
+- [Lab Website](https://schweiger-lab.github.io/)
 
 ---
 
